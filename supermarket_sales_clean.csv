@@ -1,0 +1,13 @@
+Customer_ID,Name,City,Age,Gender,Purchase_Amount,Purchase_Date,Product
+101,Ravi,Chennai,25.0,Male,1500.0,2024-01-15,Laptop
+102,Priya,Chennai,28.0,Female,2000.0,2024-01-18,Mobile
+103,Kumar,Coimbatore,,Male,1800.0,2024-01-20,Tablet
+104,Anitha,Madurai,30.0,Female,,2024-01-22,Laptop
+105,Suresh,Trichy,22.0,Male,500.0,2024-01-25,Mobile
+106,Divya,Chennai,27.0,Female,2200.0,,Tablet
+107,Ravi,Chennai,25.0,Male,1500.0,2024-01-15,Laptop
+108,Karthik,Salem,29.0,Male,3000.0,2024-02-01,Laptop
+109,Meena,Madurai,26.5,Female,2500.0,2024-02-05,Mobile
+110,Arun,,26.0,Male,1900.0,2024-02-10,Tablet
+111,Lakshmi,Chennai,24.0,Female,2100.0,2024-02-15,Mobile
+112,Vijay,Coimbatore,,Male,1700.0,2024-02-18,Laptop
